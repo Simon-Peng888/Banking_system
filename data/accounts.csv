@@ -1,0 +1,9 @@
+account_id,name,balance,transactions
+60d6f533-f451-4b00-95e0-755c64387678,Alice,0.00,
+aff6cf71-f25a-4aca-80ba-8631b9666f82,Bob,200.00,
+430ba4e3-8b4d-404c-8a23-bb5d1dc83091,Charlie,100.00,Deposit: 50
+9c4b4da5-f7cc-4713-b699-c07eacff8516,Dave,50.00,Withdraw: 50
+82dc5742-8f65-4ad7-a109-875dd4581706,Eve,100.00,
+a36856d8-7c51-4a64-9ef9-9177e97366b8,Frank,100.00,Withdraw: 50;Transfer to Grace: 50;Withdraw: -50
+a2b1d3af-db92-4ceb-85f7-6b6c94dafd11,Grace,150.00,Deposit: 50;Transfer from Frank: 50
+dc5c1211-9e4c-446c-8e01-3783ae882980,Hank,300.00,
